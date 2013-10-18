@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tar_2", "Tar_2\Tar_2.csproj", "{1C7A5957-6D2F-4BCC-997B-ED5A918D4063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C7A5957-6D2F-4BCC-997B-ED5A918D4063}.Debug|x86.ActiveCfg = Debug|x86
+		{1C7A5957-6D2F-4BCC-997B-ED5A918D4063}.Debug|x86.Build.0 = Debug|x86
+		{1C7A5957-6D2F-4BCC-997B-ED5A918D4063}.Release|x86.ActiveCfg = Release|x86
+		{1C7A5957-6D2F-4BCC-997B-ED5A918D4063}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Tar_2\Tar_2.csproj
+	EndGlobalSection
+EndGlobal
