@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tar_2/ClasePadre.cs">
+    <Files>
+      <File FileName="Tar_2/Main.cs" Line="13" Column="16" />
+      <File FileName="Tar_2/ClasePadre.cs" Line="26" Column="48" />
+      <File FileName="Tar_2/Funciones.cs" Line="12" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
